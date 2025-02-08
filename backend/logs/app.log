@@ -198,3 +198,21 @@
 2025-02-08 18:26:21,210 - INFO - Looking for plugins in pinecone_plugins.inference
 2025-02-08 18:26:24,759 - WARNING -  * Debugger is active!
 2025-02-08 18:26:24,767 - INFO -  * Debugger PIN: 144-569-433
+2025-02-08 18:32:03,766 - INFO - Processing URL: https://brainlox.com/courses/category/technical
+2025-02-08 18:32:17,146 - INFO - Fetched and split content into 17 documents.
+2025-02-08 18:32:19,416 - INFO - Successfully cleared all old embeddings from Pinecone!
+2025-02-08 18:32:24,385 - INFO - Successfully stored 17 documents in Pinecone!
+2025-02-08 18:32:24,385 - INFO - 127.0.0.1 - - [08/Feb/2025 18:32:24] "POST /api/store-embeddings HTTP/1.1" 200 -
+2025-02-08 18:38:35,871 - INFO - Processing URL: https://brainlox.com/courses/category/technical
+2025-02-08 18:38:44,386 - INFO - Fetched and split content into 17 documents.
+2025-02-08 18:38:47,133 - INFO - Successfully cleared all old embeddings from Pinecone!
+2025-02-08 18:38:51,899 - INFO - Successfully stored 17 documents in Pinecone!
+2025-02-08 18:38:51,899 - INFO - 127.0.0.1 - - [08/Feb/2025 18:38:51] "POST /api/store-embeddings HTTP/1.1" 200 -
+2025-02-08 18:39:40,770 - INFO - Processing URL: https://brainlox.com/courses/category/technical
+2025-02-08 18:39:46,261 - INFO - Fetched and split content into 17 documents.
+2025-02-08 18:39:46,697 - INFO - Successfully cleared all old embeddings from Pinecone!
+2025-02-08 18:39:50,894 - INFO - Successfully stored 17 documents in Pinecone!
+2025-02-08 18:39:50,895 - INFO - 127.0.0.1 - - [08/Feb/2025 18:39:50] "POST /api/store-embeddings HTTP/1.1" 200 -
+2025-02-08 18:40:11,024 - INFO - Processing question: What are different courses available ??
+2025-02-08 18:40:17,945 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-08 18:40:17,954 - INFO - 127.0.0.1 - - [08/Feb/2025 18:40:17] "POST /api/chat HTTP/1.1" 200 -

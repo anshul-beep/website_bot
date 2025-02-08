@@ -31,8 +31,8 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-# App title
-st.title("Embeddings & Chat App")
+
+st.title("Website chat App")
 st.markdown("This app allows you to store URL embeddings and ask questions about the stored content.")
 
 
