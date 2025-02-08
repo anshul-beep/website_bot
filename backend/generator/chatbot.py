@@ -29,7 +29,6 @@ vector_store = PineconeVectorStore(embedding=embeddings,index=index)
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 llm = ChatGroq(model="deepseek-r1-distill-llama-70b")
 
-# Define prompt for question-answering
 prompt = hub.pull("rlm/rag-prompt")
 
 class State(TypedDict):
@@ -38,24 +37,14 @@ class State(TypedDict):
     answer: str
 
 def retrieve(state: State):
-    """
-    Retrieve relevant documents from the Pinecone vector store.
-    """
     question = state["question"]
     retrieved_docs = vector_store.similarity_search(question)  
     return {"context": retrieved_docs}
 
 def generate(state: State):
-    """
-    Generate an answer using ChatGroq and the retrieved context.
-    """
-    # Concatenate the content of retrieved documents
+    
     docs_content = "\n\n".join(doc.page_content for doc in state["context"])
-
-    # Prepare the input for the prompt
     messages = prompt.invoke({"question": state["question"], "context": docs_content})
-
-    # Generate a response using the ChatGroq model
     response = llm.invoke(messages)
     return {"answer": response.content}
 

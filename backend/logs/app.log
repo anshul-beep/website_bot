@@ -1,0 +1,200 @@
+2025-02-08 18:20:09,120 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:20:09,121 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:20:09,148 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:20:11,731 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:20:11,732 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:20:15,507 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:20:15,508 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:20:15,514 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:20:15,515 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:20:15,515 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:20:19,168 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-08 18:20:19,168 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-08 18:20:19,181 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-08 18:20:25,563 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:20:25,563 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:20:25,589 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:20:28,354 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:20:28,354 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:20:32,020 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:20:32,020 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:20:32,020 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:20:32,021 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:20:32,021 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:20:35,555 - WARNING -  * Debugger is active!
+2025-02-08 18:20:35,563 - INFO -  * Debugger PIN: 144-569-433
+2025-02-08 18:21:58,156 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\generator\\chatbot.py', reloading
+2025-02-08 18:21:58,156 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\generator\\chatbot.py', reloading
+2025-02-08 18:21:58,157 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\generator\\chatbot.py', reloading
+2025-02-08 18:21:59,253 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-08 18:22:06,244 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:22:06,244 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:22:06,270 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:22:09,359 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:22:09,359 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:22:12,723 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:22:12,723 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:22:12,723 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:22:12,724 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:22:12,724 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:22:16,432 - WARNING -  * Debugger is active!
+2025-02-08 18:22:16,440 - INFO -  * Debugger PIN: 144-569-433
+2025-02-08 18:22:17,785 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\generator\\chatbot.py', reloading
+2025-02-08 18:22:17,785 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\generator\\chatbot.py', reloading
+2025-02-08 18:22:17,786 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\generator\\chatbot.py', reloading
+2025-02-08 18:22:19,414 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-08 18:22:26,338 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:22:26,338 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:22:26,370 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:22:29,274 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:22:29,275 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:22:32,547 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:22:32,547 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:22:32,547 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:22:32,548 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:22:32,549 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:22:36,056 - WARNING -  * Debugger is active!
+2025-02-08 18:22:36,064 - INFO -  * Debugger PIN: 144-569-433
+2025-02-08 18:22:42,533 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\scraping\\fetch_content.py', reloading
+2025-02-08 18:22:42,534 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\scraping\\fetch_content.py', reloading
+2025-02-08 18:22:42,534 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\scraping\\fetch_content.py', reloading
+2025-02-08 18:22:44,030 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-08 18:22:51,042 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:22:51,042 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:22:51,069 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:22:53,743 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:22:53,743 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:22:57,229 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:22:57,230 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:22:57,230 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:22:57,231 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:22:57,231 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:23:00,728 - WARNING -  * Debugger is active!
+2025-02-08 18:23:00,737 - INFO -  * Debugger PIN: 144-569-433
+2025-02-08 18:23:03,304 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\scraping\\fetch_content.py', reloading
+2025-02-08 18:23:03,305 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\scraping\\fetch_content.py', reloading
+2025-02-08 18:23:03,305 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\scraping\\fetch_content.py', reloading
+2025-02-08 18:23:04,527 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-08 18:23:11,284 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:23:11,285 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:23:11,306 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:23:13,727 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:23:13,728 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:23:17,164 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:23:17,164 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:23:17,164 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:23:17,165 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:23:17,165 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:23:20,579 - WARNING -  * Debugger is active!
+2025-02-08 18:23:20,587 - INFO -  * Debugger PIN: 144-569-433
+2025-02-08 18:23:38,277 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:23:38,284 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:23:38,285 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:23:39,735 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-08 18:23:46,938 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:23:46,939 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:23:46,964 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:23:49,612 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:23:49,612 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:23:52,905 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:23:52,905 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:23:52,905 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:23:52,906 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:23:52,906 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:23:56,292 - WARNING -  * Debugger is active!
+2025-02-08 18:23:56,299 - INFO -  * Debugger PIN: 144-569-433
+2025-02-08 18:24:03,827 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:24:03,828 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:24:03,829 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:24:05,359 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-08 18:24:12,179 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:24:12,179 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:24:12,206 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:24:14,720 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:24:14,720 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:24:18,070 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:24:18,070 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:24:18,070 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:24:18,072 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:24:18,072 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:24:21,567 - WARNING -  * Debugger is active!
+2025-02-08 18:24:21,574 - INFO -  * Debugger PIN: 144-569-433
+2025-02-08 18:24:36,209 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:24:36,210 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:24:36,211 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:24:37,777 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-08 18:24:44,529 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:24:44,529 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:24:44,556 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:24:47,396 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:24:47,396 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:24:51,029 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:24:51,029 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:24:51,029 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:24:51,030 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:24:51,031 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:24:54,564 - WARNING -  * Debugger is active!
+2025-02-08 18:24:54,572 - INFO -  * Debugger PIN: 144-569-433
+2025-02-08 18:25:00,352 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:25:00,352 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:25:01,417 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-08 18:25:08,333 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:25:08,333 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:25:08,357 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:25:10,852 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:25:10,853 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:25:15,349 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:25:15,350 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:25:15,350 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:25:15,351 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:25:15,351 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:25:19,739 - WARNING -  * Debugger is active!
+2025-02-08 18:25:19,747 - INFO -  * Debugger PIN: 144-569-433
+2025-02-08 18:25:25,953 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:25:25,954 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:25:27,818 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-08 18:25:34,901 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:25:34,901 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:25:34,928 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:25:37,737 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:25:37,738 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:25:41,151 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:25:41,151 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:25:41,151 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:25:41,153 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:25:41,153 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:25:44,739 - WARNING -  * Debugger is active!
+2025-02-08 18:25:44,749 - INFO -  * Debugger PIN: 144-569-433
+2025-02-08 18:25:46,053 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:25:46,053 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:25:46,054 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:25:47,550 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-08 18:25:54,263 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:25:54,263 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:25:54,289 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:25:56,666 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:25:56,667 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:25:59,979 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:25:59,979 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:25:59,979 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:25:59,986 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:25:59,986 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:26:03,564 - WARNING -  * Debugger is active!
+2025-02-08 18:26:03,572 - INFO -  * Debugger PIN: 144-569-433
+2025-02-08 18:26:07,259 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:26:07,260 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:26:07,260 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\langchain_chatbot\\backend\\api\\routes.py', reloading
+2025-02-08 18:26:08,410 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-08 18:26:15,500 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:26:15,501 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:26:15,526 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:26:17,824 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:26:17,824 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:26:21,208 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:26:21,209 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:26:21,209 - INFO - Installing plugin inference into Pinecone
+2025-02-08 18:26:21,209 - INFO - Discovering subpackages in _NamespacePath(['C:\\Users\\hp\\anaconda3\\Lib\\site-packages\\pinecone_plugins'])
+2025-02-08 18:26:21,210 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-08 18:26:24,759 - WARNING -  * Debugger is active!
+2025-02-08 18:26:24,767 - INFO -  * Debugger PIN: 144-569-433
