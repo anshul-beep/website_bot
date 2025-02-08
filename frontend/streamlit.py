@@ -1,10 +1,9 @@
 import streamlit as st
 import requests
 
-# Set page title and layout
 st.set_page_config(page_title="Embeddings & Chat App", layout="centered")
 
-# Custom CSS for styling
+
 st.markdown(
     """
     <style>
@@ -36,14 +35,14 @@ st.markdown(
 st.title("Embeddings & Chat App")
 st.markdown("This app allows you to store URL embeddings and ask questions about the stored content.")
 
-# Input for URL
+
 st.header("Step 1: Store URL Embeddings")
 url = st.text_input("Enter the URL to store embeddings:", placeholder="https://example.com")
 
-# Button to store embeddings
+
 if st.button("Store Embeddings"):
     if url:
-        # API call to store embeddings
+        
         api_url = "http://127.0.0.1:5000/api/store-embeddings"
         payload = {"url": url}
         response = requests.post(api_url, json=payload)
@@ -55,11 +54,10 @@ if st.button("Store Embeddings"):
     else:
         st.warning("Please enter a valid URL.")
 
-# Input for query
 st.header("Step 2: Ask a Question")
 query = st.text_input("Enter your question:", placeholder="What is the content of the stored embeddings?")
 
-# Button to send query
+
 if st.button("Ask Question"):
     if query:
         api_url = "http://127.0.0.1:5000/api/chat"
@@ -71,11 +69,11 @@ if st.button("Ask Question"):
             answer_part = response_data.get("answer", "No answer found.")
             think_part = response_data.get("think", "No thought process available.")
             
-            # Display "think" section
+           
             st.subheader("Thought Process:")
             st.write(think_part)
 
-            # Display "answer" section
+           
             st.subheader("Answer:")
             st.write(answer_part)
         else:
